@@ -1,0 +1,16 @@
+h2{
+	color:#38423B;
+}
+body{
+	background-image: url(2.jpg);
+}      
+.feeld{
+	background-color: #AFB6FF;
+	border: 1px solid #010511;
+	font-size: 18px;
+	margin: 3px;
+	margin-right: 1100px;
+	padding: 3px;
+	border-radius: 5px;
+	box-shadow: 3px 3px 7px #010511
+}
